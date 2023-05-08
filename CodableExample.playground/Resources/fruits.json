@@ -1,0 +1,14 @@
+{
+	"fruits": [
+		{
+			"name": "apple",
+			"color": "red",
+			"grownInState": "New York"
+		},
+		{
+			"name": "tangerine",
+			"color": "orange",
+			"grownInState": "Florida"
+		}
+	]
+}
